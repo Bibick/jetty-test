@@ -1,0 +1,8 @@
+{
+  "generator-smartlaw-service": {
+    "classNamePart": "Jetty",
+    "groupId": "law.smart.micro",
+    "packageName": "law.smart.micro.jetty",
+    "baseName": "jetty"
+  }
+}
